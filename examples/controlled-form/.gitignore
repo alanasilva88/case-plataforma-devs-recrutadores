@@ -1,0 +1,20 @@
+# Dependências 
+node_modules/
+
+# Build do Next.js
+.next/
+out/
+
+# Arquivos de log de erros (npm/yarn logs)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Cache do TypeScript e build local
+*.tsbuildinfo
+next-env.d.ts
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
